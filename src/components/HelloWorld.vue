@@ -1,3 +1,3 @@
 <template>
-    <img src="~assets/logo.png" alt="yoom" />
+    <img src="~assets/logo.png" alt="yoom"/>
 </template>
